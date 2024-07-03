@@ -1,4 +1,4 @@
-PREFIX ?= /usr/local
+PREFIX ?= /usr
 
 all:
 	@echo RUN \'make install\' to install pfetch
